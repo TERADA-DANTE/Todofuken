@@ -3,7 +3,6 @@ const env = require("dotenv").config({ path: "../.env" }).parsed;
 const fs = require("fs");
 
 async function main() {
-
   // 住所取得
 
   // 現実的に 15 以上行かない
